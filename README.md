@@ -1,7 +1,7 @@
 # customer_banking
 Module 3 Challenge
 
-The focus of the project was to design an interactive ordering system from a food truck menu. 
+The focus of the project was to design a customer banking code.  
 The overall intent is for python education, training and learning.
 
 ## Project Description
